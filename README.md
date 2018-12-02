@@ -1,2 +1,7 @@
 # List_Of_Publications
-Total list of the researcher's publciations
+
+An excel sheet of the researcher's publciations.
+
+The excel sheet is provided with filters, so the navigations between the different publciations is easily done.
+
+
